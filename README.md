@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh1barasiya&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh1barasiya" /> </p>
 
-- 🔭 I’m currently working on **Angular, ASP.NET**
+- 🔭 I’m currently working on **Angular**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 💬 Ask me about **Python Django**
 
